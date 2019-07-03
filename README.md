@@ -7,6 +7,7 @@
 * [Airflow best practices](https://medium.com/datareply/airflow-lesser-known-tips-tricks-and-best-practises-cf4d4a90f8f)
 * [Testing in airflow](https://blog.usejournal.com/testing-in-airflow-part-1-dag-validation-tests-dag-definition-tests-and-unit-tests-2aa94970570c)
 * [Testing Airflow DAGS](https://bcb.github.io/airflow/testing-dags)
+* [Testing and debugging apache airflow](https://blog.godatadriven.com/testing-and-debugging-apache-airflow)
 
 ## Linux 
 * [Linuxize](https://linuxize.com/)
