@@ -9,6 +9,9 @@
 * [Testing Airflow DAGS](https://bcb.github.io/airflow/testing-dags)
 * [Testing and debugging apache airflow](https://blog.godatadriven.com/testing-and-debugging-apache-airflow)
 
+## Docker 
+* [How to remove docker images containers volumes and networks](https://linuxize.com/post/how-to-remove-docker-images-containers-volumes-and-networks/)
+
 ## Linux 
 * [Linuxize](https://linuxize.com/)
 
