@@ -9,6 +9,7 @@
 * [Testing in airflow](https://blog.usejournal.com/testing-in-airflow-part-1-dag-validation-tests-dag-definition-tests-and-unit-tests-2aa94970570c)
 * [Testing Airflow DAGS](https://bcb.github.io/airflow/testing-dags)
 * [Testing and debugging apache airflow](https://blog.godatadriven.com/testing-and-debugging-apache-airflow)
+* [Awesome Apache Airflow](https://github.com/jghoman/awesome-apache-airflow)
 
 ## Docker 
 * [How to remove docker images containers volumes and networks](https://linuxize.com/post/how-to-remove-docker-images-containers-volumes-and-networks/)
