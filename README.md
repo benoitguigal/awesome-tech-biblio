@@ -1,3 +1,6 @@
+## Python 
+* [About style guide of python and linter tool. pep8, pyflakes, flake8, haking, Pylint.](https://blog.sideci.com/about-style-guide-of-python-and-linter-tool-pep8-pyflakes-flake8-haking-pyling-7fdbe163079d)
+
 ## Data engineering 
 
 * [A Beginner’s Guide to Data Engineering](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
