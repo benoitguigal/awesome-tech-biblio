@@ -24,3 +24,6 @@
 ## SIG
 * [Postgis reference](https://postgis.net/docs/reference.html#Geometry_Constructors)
 
+## PostgreSQL
+* [Move data directory to a new location](https://www.digitalocean.com/community/tutorials/how-to-move-a-postgresql-data-directory-to-a-new-location-on-ubuntu-16-04)
+
