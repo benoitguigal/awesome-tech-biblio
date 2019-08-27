@@ -26,4 +26,5 @@
 
 ## PostgreSQL
 * [Move data directory to a new location](https://www.digitalocean.com/community/tutorials/how-to-move-a-postgresql-data-directory-to-a-new-location-on-ubuntu-16-04)
+* [Postgis nearest distance](https://gis.stackexchange.com/questions/136403/postgis-nearest-points-with-st-distance-knn)
 
