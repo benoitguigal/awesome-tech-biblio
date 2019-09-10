@@ -28,4 +28,5 @@
 * [Move data directory to a new location](https://www.digitalocean.com/community/tutorials/how-to-move-a-postgresql-data-directory-to-a-new-location-on-ubuntu-16-04)
 * [Postgis nearest distance](https://gis.stackexchange.com/questions/136403/postgis-nearest-points-with-st-distance-knn)
 * [Backup and restore a Postgresql database](https://axiomq.com/blog/backup-and-restore-a-postgresql-database/)
+* [Disk Usage](https://wiki.postgresql.org/wiki/Disk_Usage)
 
