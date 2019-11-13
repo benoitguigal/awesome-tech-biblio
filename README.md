@@ -31,4 +31,4 @@
 * [Disk Usage](https://wiki.postgresql.org/wiki/Disk_Usage)
 
 ## Documentation 
-*[Exemple de Guideline Tech par l'équipe Administration+](https://github.com/betagouv/aplus/wiki/Guidelines-d%C3%A9veloppement)
+* [Exemple de Guideline Tech par l'équipe Administration+](https://github.com/betagouv/aplus/wiki/Guidelines-d%C3%A9veloppement)
