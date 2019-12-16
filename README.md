@@ -14,6 +14,12 @@
 * [Testing and debugging apache airflow](https://blog.godatadriven.com/testing-and-debugging-apache-airflow)
 * [Awesome Apache Airflow](https://github.com/jghoman/awesome-apache-airflow)
 
+## React 
+* [https://usehooks.com/](Easy to understand React Hook)
+
+## Functional programing 
+[https://functional.christmas/](Functionnal christmas)
+
 ## Docker 
 * [How to remove docker images containers volumes and networks](https://linuxize.com/post/how-to-remove-docker-images-containers-volumes-and-networks/)
 
