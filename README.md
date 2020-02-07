@@ -37,7 +37,7 @@
 * [Disk Usage](https://wiki.postgresql.org/wiki/Disk_Usage)
 
 ## OAuth2
-* [OAuth2 specs](https://tools.ietf.org/html/rfc6749
+* [OAuth2 specs](https://tools.ietf.org/html/rfc6749)
 * [Comprendre OAuth2](http://www.bubblecode.net/fr/2016/01/22/comprendre-oauth2/)
 * [Intoduction à OAuth2]( https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
 
