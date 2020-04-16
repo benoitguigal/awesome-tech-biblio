@@ -36,6 +36,9 @@
 * [Backup and restore a Postgresql database](https://axiomq.com/blog/backup-and-restore-a-postgresql-database/)
 * [Disk Usage](https://wiki.postgresql.org/wiki/Disk_Usage)
 
+## GraphQL 
+* [Awesome GraphQL](https://github.com/chentsulin/awesome-graphql#example-ts)
+
 ## OAuth2
 * [OAuth2 specs](https://tools.ietf.org/html/rfc6749)
 * [Comprendre OAuth2](http://www.bubblecode.net/fr/2016/01/22/comprendre-oauth2/)
