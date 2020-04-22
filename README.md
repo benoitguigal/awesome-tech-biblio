@@ -15,7 +15,11 @@
 * [Awesome Apache Airflow](https://github.com/jghoman/awesome-apache-airflow)
 
 ## React 
-* [https://usehooks.com/](Easy to understand React Hook)
+* [Easy to understand React Hook](Easy to understand React Hookhttps://usehooks.com/)
+
+## Typescript 
+
+* [New in typescript 3-7](https://blog.logrocket.com/new-in-typescript-3-7/)
 
 ## Functional programing 
 [https://functional.christmas/](Functionnal christmas)
