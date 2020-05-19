@@ -1,6 +1,9 @@
 ## Python 
 * [About style guide of python and linter tool. pep8, pyflakes, flake8, haking, Pylint.](https://blog.sideci.com/about-style-guide-of-python-and-linter-tool-pep8-pyflakes-flake8-haking-pyling-7fdbe163079d)
 
+## Node 
+* [How to debug Nodejs in a docker container](https://dev.to/alex_barashkov/how-to-debug-nodejs-in-a-docker-container-bhi)
+
 ## Data engineering 
 
 * [A Beginner’s Guide to Data Engineering](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
@@ -22,7 +25,7 @@
 * [New in typescript 3-7](https://blog.logrocket.com/new-in-typescript-3-7/)
 
 ## Functional programing 
-[https://functional.christmas/](Functionnal christmas)
+[Functionnal christmas](https://functional.christmas/)
 
 ## Docker 
 * [How to remove docker images containers volumes and networks](https://linuxize.com/post/how-to-remove-docker-images-containers-volumes-and-networks/)
