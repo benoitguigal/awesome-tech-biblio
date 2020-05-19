@@ -18,7 +18,7 @@
 * [Awesome Apache Airflow](https://github.com/jghoman/awesome-apache-airflow)
 
 ## React 
-* [Easy to understand React Hook](Easy to understand React Hookhttps://usehooks.com/)
+* [Easy to understand React Hook](https://usehooks.com/)
 
 ## Typescript 
 
